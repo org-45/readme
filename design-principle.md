@@ -1,0 +1,1 @@
+We will be minimal on our design for now. Fullstack devs are advised to follow as less as possible styling in their projects, unless someone really wants to make it visually appealing then its fine but its a MVP that we are developing so design focus is not there.
